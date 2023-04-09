@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @H3r1CH
-- 👀 I’m interested in Cybersecurity, Penetration Testing, Hacking, Bug Bounties, and CTFs
-- 🌱 I’m currently learning Penetration Testing
+- 👀 I’m interested in DevSecOps, Application & Product Security, Penetration Testing, Bug Bounties, and CTFs
+- 🌱 I’m currently learning Terraform and Kubernetes
 - 💞️ I’m looking to collaborate on anything related to my interests
 - 📫 How to reach me ... @H3r1CH_
 
